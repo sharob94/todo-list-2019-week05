@@ -4,7 +4,7 @@
 
 <span>Link to project:<a href>https://sharp-leakey-745d06.netlify.app</a></span>
 
-<img src="README.PNG" alt = "Pic of to-do list">
+<img src = "to-dolist.png" alt = "Pic of to-do list">
 
 <h2>How It's Made:</h2>
 
